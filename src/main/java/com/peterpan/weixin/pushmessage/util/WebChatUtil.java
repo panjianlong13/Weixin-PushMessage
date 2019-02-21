@@ -14,8 +14,8 @@ import com.alibaba.fastjson.JSONObject;
 //import org.json.JSONObject;
 
 public class WebChatUtil {
-	public static final String APPID = "wxa348843640b0ab4d";
-	public static final String APPSECRET = "847f972158f40efe44138fc05e12872d";
+	public static final String APPID = "*** Your APP ID ***";
+	public static final String APPSECRET = "*** Your APP SECRET ***";
 	// 微信模板接口
 	public static final  String SEND_TEMPLAYE_MESSAGE_URL = "https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=";
 	// 获取微信ACCESS_TOKEN接口
